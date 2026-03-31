@@ -1,7 +1,7 @@
 
 # Superstore Sales Analytics Pipeline | Snowflake + Power BI
 
-## 📌 Overview
+## Overview
 
 Built an end-to-end analytics project using Snowflake and Power BI to transform Superstore sales data into business-ready insights.
 
@@ -9,7 +9,7 @@ The project follows a layered data architecture (raw, clean, calculation, and an
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Snowflake (Data Warehouse)
 - SQL (Data Transformation)
@@ -19,7 +19,7 @@ The project follows a layered data architecture (raw, clean, calculation, and an
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 - **RAW**: Ingested source data from CSV  
 - **CLEAN**: Standardized column names and data types  
@@ -28,7 +28,7 @@ The project follows a layered data architecture (raw, clean, calculation, and an
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 
 - Total Sales  
 - Total Profit  
@@ -40,13 +40,13 @@ The project follows a layered data architecture (raw, clean, calculation, and an
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-*superstore.png*
+![Dashboard Preview](superstore.png)
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - West region generated the highest revenue across all regions  
 - Technology is the top-performing category in both sales and profit  
