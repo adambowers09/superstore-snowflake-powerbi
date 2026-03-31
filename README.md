@@ -56,4 +56,3 @@ The project follows a layered data architecture (raw, clean, calculation, and an
 
 ---
 
-## 📂 Repository Structure
